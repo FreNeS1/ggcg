@@ -4,6 +4,8 @@ Features, refactoring tasks or bugs will be documented in this file as a way of 
 
 ## Unstaged
 
+- [ ] Finish `README.md`
+
 ## Next major version
 
 ## Next minor version
