@@ -6,7 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [UNRELEASED]
 ### Added
-- `CHANGELOG.md` file.
+- Setup project structure as library with `setup.py` and `requirements.txt`.
+- Added `CHANGELOG.md` and `TODO.md` files.
+- Added linting with PyLint and `.pylintrc` configuration file.
+- Added example tests.
 
 ## [0.0.1] - 2020-06-13
 ### Added
