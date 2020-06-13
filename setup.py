@@ -1,4 +1,6 @@
-from setuptools import setup, find_packages
+"""Setup file."""
+
+from setuptools import setup
 
 NAME = 'ggcg'
 VERSION = '0.1.0'
@@ -24,6 +26,6 @@ setup(
     author_email=EMAIL,
     url=URL,
     license=license_text,
-    packages=find_packages(exclude=('tests', 'docs')),
+    packages=["ggcg"],
     python_requires=PYTHON_REQUIRES,
 )
