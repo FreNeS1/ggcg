@@ -1,4 +1,4 @@
-# GGCG
+# Genetically Generated Computing Graphs (GGCG)
 
 This project generates and trains simple computation graphs to model a given mathematics or physics problem. By feeding the machine with given numerical or logical inputs, it can infer a given output by generating and modifying new operations on the computational graph.
 
