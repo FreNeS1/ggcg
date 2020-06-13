@@ -10,7 +10,4 @@ Features, refactoring tasks or bugs will be documented in this file as a way of 
 
 ## Next minor version
 
-- [X] Generate project structure as python package.
-- [X] Create example tests.
-
 ## Next patch
